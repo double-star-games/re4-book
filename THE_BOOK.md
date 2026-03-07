@@ -2005,7 +2005,3 @@ When lost, read the files in order:
 6. gomer/DEFINITION_OF_DONE.md
 
 Then continue.
-
----
-
-*"On the wire, that's living. All the rest is waiting."*

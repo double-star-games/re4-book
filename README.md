@@ -68,6 +68,3 @@ This is the RE4 coordination framework. Initialize it in this project:
 
 See [THE_BOOK.md](THE_BOOK.md) for the full text.
 
----
-
-*"On the wire, that's living. All the rest is waiting."*
