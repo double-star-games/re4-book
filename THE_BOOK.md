@@ -229,7 +229,7 @@ The Re-portable 4 was born out of necessity.  We wanted to stay professional, sh
 
 Once we started, the MECE filter became clear. We could see, cleanly, how each of our styles fit — and how to use Claude Code without flattening either path in, even though our styles couldn't be more different.
 
-I'm a non-coding software developer who designs through natural science; my core builds are the ones that become most biomimetic.
+I'm a non-coding software developer making biomimetic designs; my core builds are inspired by nature's wisdom.
 
 Patrick is a gifted generalist and exceptional software developer, with 40 years under his belt — refactoring and finding what works, while always designing for what actually could.
 
@@ -243,21 +243,21 @@ We invite anyone who wants to try.
 
 ✦
 
-Our thing is to weave nature into our math, our logic, and our biomimetic builds to make tiny, integer-only systems that don't require the cloud. They run fully local on minimal power and minimal memory.
+Our thing is to weave nature into our math, our logic, and our biomimetic builds to make tiny, integer-only systems like AI that don't require the cloud. They run fully local on minimal power and minimal memory.
 
-Our tiny tech ethos respects your time and energy by using less power and space. It's ideal for edge tech: it supports low-connectivity places with minimal power, and it supports privacy for those who prefer it.
+Our tiny tech nature inspired ethos respects your time and energy by using less power and space. It's ideal for edge tech: it supports low-connectivity places with minimal power, and it supports privacy for those who prefer it.
 
 It's already available — in the builds we've shipped, and on our website, Doublestar.net.
 
 ✦
 
-We created the Re-portable 4 for Double Star Games to be brave enough to attempt the games and edge technologies we're pursuing. Once we saw how powerfully it was working, we realized something:
+We created the Re-portable 4 for Double Star Games to be brave enough to attempt the games, biomimetic edge AI and the other tech we are creating. Once we saw how powerfully it was working, we realized something:
 
 If anyone is feeling untethered — if anyone wants to build but doesn't know how to begin with Claude Code — upload our small system. Our system will always throw you a line.
 
 ✦
 
-**If you are the type of person who wants to just begin: skip to Chapter 7, follow the instructions in the TOUCHSTONE section, download Appendix B: RE4.md file and paste it into Claude Code, then ask to begin using The Re-portable 4.**
+**If you are the type of person who wants to just begin: skip to Chapter 7, follow the instructions in the TOUCHSTONE section, download Appendix B: RE4.md file, paste it into Claude Code, then ask to begin using The Re-portable 4.**
 
 ✦
 
@@ -265,7 +265,7 @@ Throughout human history, great inventions have lifted people out of downturns. 
 
 Everyone invents something — even if they don't always recognize it as invention. Imagine any of those inventions. Ask Claude Code to help you bring in the RE4 and begin.
 
-With the Re-portable 4, anyone who can design and imagine can build. We want to collaborate. We want to share our edge tech with you. We want to invent beside you.
+With the Re-portable 4, anyone who can design and imagine can build. We want to collaborate. We want to share our tiny edge tech with you. We want to invent beside you.
 
 This is a renaissance, and in this one, the inventors are all of us.
 
@@ -277,7 +277,7 @@ This is a renaissance, and in this one, the inventors are all of us.
 
 # Chapter 1: By An Order of Magnitude, RE4
 
-By an order of magnitude better than before, we are Double Star Games. We make games and tiny tech where we sit one good long walk away from a view of Puget Sound. My partner in games, Patrick, dubbed me, Dana, an NCSD: a Non Coding Software Developer. Since my introduction to Claude Code I've been an NCSD, but I also write, forage, cook, garden, and many other pursuits that are all slowly giving way to Claude Code.
+By an order of magnitude better than before, we are Double Star Games. We make games, tiny tech, and edge AI where we sit one good long walk away from a view of Puget Sound. My partner in games, Patrick, dubbed me, Dana, an NCSD: a Non Coding Software Developer. Since my introduction to Claude Code I've been an NCSD, but I also write, forage, cook, garden, and many other pursuits that are all slowly giving way to Claude Code.
 
 We first created the Re-portable 4 for ourselves because after six months of working with the incredible Claude Code we realized we'd also need incredible Claude level support to make our builds truly solid. We were bridging our ability to turn all of our projects, all of our designs and work, and all of our specs from decades of research and development into a successful model that could bring our builds to you, to market, and to the world.
 
