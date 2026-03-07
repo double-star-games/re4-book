@@ -66,5 +66,5 @@ This is the RE4 coordination framework. Initialize it in this project:
 
 ## The Book
 
-See [THE_BOOK.md](THE_BOOK.md) for the full text.
+See [RE4_BOOK.md](RE4_BOOK.md) for the full text.
 
