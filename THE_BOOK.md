@@ -70,9 +70,68 @@ The authors and publisher make no warranties, express or implied, regarding the 
 
 ---
 
+<p align="center">
 
 ---
 
+<br>
+
+<h2>TABLE OF CONTENTS</h2>
+
+---
+
+<br>
+
+<h4><em>Epigraph · The Quality Without a Name</em></h4>
+
+✦
+
+<h4><em>Prologue · Our Gift</em></h4>
+
+<br>
+
+· · ·
+
+<br>
+
+<h4>I · By An Order of Magnitude, RE4</h4>
+
+<h4>II · A Walk Through A Build</h4>
+
+<h4>III · The Four</h4>
+
+<h4>IV · The Blank Page</h4>
+
+<h4>V · Re-framing — A Grammar for Teams</h4>
+
+<h4>VI · Naming and Where Work Lives</h4>
+
+<h4>VII · Recovery and Resilience</h4>
+
+<h4>VIII · Definition of Done</h4>
+
+<br>
+
+· · ·
+
+<br>
+
+<h4><em>Epilogue · The Slowest Operation</em></h4>
+<em>by Patrick Meade</em>
+
+<br>
+
+✦
+
+<h4>Appendix A · Lineages</h4>
+
+<h4>Appendix B · RE4.md</h4>
+
+<br>
+
+---
+
+</p>
 
 
 ---
@@ -703,7 +762,7 @@ Kepler can walk you back through the _Epochs_ of your build and let you know how
 
 ## How They Work Together
 
-The four form a loop:
+Include all four as you cycle:
 
 ```
 Alexandria (know) → Q (build) → Gomer (validate) → Kepler (record)
@@ -711,7 +770,7 @@ Alexandria (know) → Q (build) → Gomer (validate) → Kepler (record)
      └──────────────────────────────────────────────────────┘
 ```
 
- Start anywhere. Find your way in from anywhere. Each hands off to the next naturally.
+ Start anywhere. Find your way in from anywhere. Each hands off to another. There is no canonical order.
 
 - Alexandria maps what needs building → Q builds it
 - Q completes a step → Gomer validates it
@@ -1595,7 +1654,7 @@ Every chapter in this book has a definition of done:
 
 ---
 
-# The Slowest Operation
+# Epilogue: The Slowest Operation
 
 **On the Re-portable 4, and Why This Matters**
 
@@ -2005,3 +2064,7 @@ When lost, read the files in order:
 6. gomer/DEFINITION_OF_DONE.md
 
 Then continue.
+
+---
+
+*"On the wire, that's living. All the rest is waiting."*
