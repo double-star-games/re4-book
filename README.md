@@ -1,6 +1,6 @@
 # The Re-Portable 4
 
-The Re-portable 4 is a book about professionally building things with Claude Code without losing what makes the work alive. Written by a non-coding software developer and a forty-year engineer shipping local-first edge technology from Seattle, it offers a four-archetype framework for working with Claude Code — mapping unknowns, holding operations steady, recording history with context, and protecting the definition of done through honest testing and a shared grammar.
+The Re-portable 4 assists the reader in professionally building with Claude Code without losing what makes the work alive.  The full uploadable Re-portable 4 system lives in its appendix. Written and designed by a non-coding software developer and a forty-year engineer shipping games and edge AI in Seattle.  The RE4 offers a four-archetype framework for working with Claude Code — mapping unknowns, holding operations steady, recording history with context, and protecting the definition of done through honest testing and a shared grammar.
 
 We built the system because we needed the assistance in our own company. As AI reshapes the scope, scale, and speed of work, we needed a way to stay tethered as our standards and creativity scaled with it—to keep the thread of decisions, standards, and history intact. RE4 lowers the cost of recovery after crashes, interruptions, and time-away, and helps teams treat the repository as a navigable place.
 
