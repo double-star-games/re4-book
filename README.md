@@ -4,11 +4,11 @@ We know what it's like right now for people trying to build. We've been there. I
 
 We made this for ourselves because we needed it. Six months into building with Claude Code, our repositories were blooming then looming. We needed a way to stay tethered — to keep the thread of decisions, standards, and history intact while working at a speed and scale neither of us had ever touched before.
 
-Once it worked for us, we couldn't not share it. The Re-portable 4 is free. Everything here — the system, the book, the download — is yours to use and build with. No account. No tier. No ask.
+Once it worked for us, we couldn't not share it. The Re-portable 4 is free. Everything here — the system, the book, the download — is yours to use and build with. No ask.
 
-The Re-portable 4 assists the reader in professionally building with Claude Code without losing what makes the work alive. Written and designed by a non-coding software developer and a forty-year engineer shipping games and edge AI in Seattle: the RE4 offers a four-archetype framework for working with Claude Code — mapping unknowns, holding operations steady, recording history with context, and protecting the definition of done through honest testing and a shared grammar.
+The Re-portable 4 assists the reader in professionally building with Claude Code without losing what makes the work alive. Written and designed by a non-coding software developer and a forty-year engineer shipping games and edge AI in Seattle. 
 
-We built the system because we needed the assistance in our own company. RE4 lowers the cost of recovery after crashes, interruptions, and time-away, and helps solo makers and teams treat the repository as a navigable place.
+The RE4 offers a four-archetype framework for working with Claude Code — mapping unknowns, holding operations steady, recording history with context, and protecting the definition of done through honest testing and a shared grammar. RE4 lowers the cost of recovery after crashes, interruptions, and time-away, and helps solo makers and teams treat the repository as a navigable place.
 
 Rooted in Christopher Alexander's search for the quality without a name, Robert Martin's ethic of craft, and the authors' own lineage of biomimetic design, the book assumes bravery on the part of the reader — not mastery. It is written for engineers, makers, and anyone who can design and imagine but has never been invited to build.
 
