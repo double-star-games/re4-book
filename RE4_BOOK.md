@@ -2040,15 +2040,12 @@ When uncertain: say so. Ask the human. Do not guess.
 
 ---
 
-## The Loop
+## How to get started
 
-```
-Alexandria → Q → Gomer → Kepler
-    ↑                       |
-    └───────────────────────┘
-```
+Start anywhere. 
+Each archetype hands off to the next. 
 
-Start anywhere. Each archetype hands off to the next.
+Include the 4 archetypes in any order: activate all four archetypes with regularity.
 
 ---
 
