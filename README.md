@@ -58,8 +58,8 @@ This is the RE4 coordination framework. Initialize it in this project:
 
 3. Read RE4.md fully. It is your orientation. Follow it.
 
-4. Ask the human what we're building, then begin a loop:
-   Alexandria → Q → Gomer → Kepler
+4. Ask the human what we're building, then begin using The Re-portable 4.
+
 ```
 
 ---
