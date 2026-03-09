@@ -1,6 +1,6 @@
 # The Re-Portable 4
 
-We know what it's like right now for people trying to build. We've been there. If you're an engineer, a maker, an NCSD, or someone who just has a build that won't leave you alone — it's yours.
+We know what it's like right now for people trying to build. We've been there. If you're an engineer, a maker, an NCSD, or someone who just has a build that won't leave you alone, we give you The Re-Portable 4. 
 
 We made this for ourselves because we needed it. Six months into building with Claude Code, our repositories were blooming then looming. We needed a way to stay tethered — to keep the thread of decisions, standards, and history intact while working at a speed and scale neither of us had ever touched before.
 
