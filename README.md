@@ -8,7 +8,7 @@ We made this for ourselves because we needed it. Six months into building with C
 
 Once it worked for us, we couldn't not share it. The Re-portable 4 is free. Everything here — the system, the book, the download — is yours to use and build with. No ask.
 
-Written and designed by an NCSD, a non-coding software developer, and a forty-year engineer shipping games and edge AI in Seattle: The Re-portable 4 assists the reader in professionally building with Claude Code without losing what makes the work alive. 
+Written and designed by an NCSD, non-coding software developer, and a forty-year engineer shipping games and edge AI in Seattle: The Re-portable 4 assists the reader in professionally building with Claude Code without losing what makes the work alive. 
 
 Rooted in Christopher Alexander's search for the quality without a name, Robert Martin's ethic of craft, and the authors' own lineage of biomimetic design, the book assumes bravery on the part of the reader — not mastery. It is written for engineers, makers, and anyone who can design and imagine but has never been invited to build.
 
