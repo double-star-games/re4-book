@@ -2,7 +2,7 @@
 
 The Re-portable 4 offers a four-archetype framework for working with Claude Code — mapping unknowns, holding operations steady, recording history with context, and protecting the definition of done through honest testing and a shared grammar. RE4 lowers the cost of recovery after crashes, interruptions, and time-away, and helps solo makers and teams treat the repository as a navigable place.
 
-RE4 is both a published method and a working system. The book teaches the method. The download puts it in your repository, ready to run with Claude Code. Most frameworks describe a way of working. RE4 installs one.
+The Re-portable 4 is both a published method and a working system. The book teaches the method. The download puts it in your repository, ready to run with Claude Code. Most frameworks describe a way of working. RE4 installs one.
 
 We know what it's like right now for people trying to build. We've been there. If you're an engineer, a maker, or a non coding software developer: we give you The Re-portable 4. 
 
