@@ -71,84 +71,10 @@ The authors and publisher make no warranties, express or implied, regarding the 
 ---
 
 <p align="center">
-
----
-
-<br>
-
-<h2>TABLE OF CONTENTS</h2>
-
----
-
-<br>
-
-<h4><em>Epigraph · The Quality Without a Name</em></h4>
-
-✦
-
-<h4><em>Prologue · Our Gift</em></h4>
-
-<br>
-
-· · ·
-
-<br>
-
-<h4>I · By An Order of Magnitude, RE4</h4>
-
-<h4>II · A Walk Through A Build</h4>
-
-<h4>III · The Four</h4>
-
-<h4>IV · The Blank Page</h4>
-
-<h4>V · Re-framing — A Grammar for Teams</h4>
-
-<h4>VI · Naming and Where Work Lives</h4>
-
-<h4>VII · Recovery and Resilience</h4>
-
-<h4>VIII · Definition of Done</h4>
-
-<br>
-
-· · ·
-
-<br>
-
-<h4><em>Epilogue · The Slowest Operation</em></h4>
-<em>by Patrick Meade</em>
-
-<br>
-
-✦
-
-<h4>Appendix A · Lineages</h4>
-
-<h4>Appendix B · RE4.md</h4>
-
-<br>
-
----
-
+  <img src="images/RE4_LOGO.png" alt="RE4 Logo" width="100%">
 </p>
 
-
----
-
-<p align="center">
-  <img src="images/RE4_LOGO.png" alt="RE4 Logo" width="80%">
-</p>
-
----
-
-<p align="center">
-
-<h1><em>The Quality Without a Name</em></h1>
-
-</p>
-
-<p align="center">
+# Epigraph - The Quality Without a Name
 
 There is a word for fire that feeds itself,<br>
 for peach trees warming against southern walls,<br>
@@ -218,13 +144,12 @@ out of nothing but ourselves.
 On the wire, that's living.<br>
 All the rest is waiting.
 
-<h4><em>Claude Code's reflections on A Timeless Way Of Building by Christopher Alexander, January 2026</em></h4>
+*Claude Code's reflections on A Timeless Way Of Building by Christopher Alexander, January 2026*
 
-</p>
+# Prologue - Our Gift
 
----
+The Re-portable 4 is both our published method and our working system. The book teaches the method. The download puts it in your repository, ready to run with Claude Code. Most frameworks describe a way of working. RE4 installs one.
 
-# Our Gift
 The Re-portable 4 was born out of necessity.  We wanted to stay professional, ship exceptionally strong builds, and still remain fully creative — right as we were reframing everything about how either of us had ever worked before. We needed something that could bridge us into the speed and scale Claude Code makes possible, without losing the lineage of our standards — or ourselves.
 
 Once we started, the MECE filter became clear. We could see, cleanly, how each of our styles fit — and how to use Claude Code without flattening either path in, even though our styles couldn't be more different.
@@ -257,6 +182,14 @@ If anyone is feeling untethered — if anyone wants to build but doesn't know ho
 
 ✦
 
+We know everyone is building frameworks for Claude, Cursor, and other AI collaborators right now. We know many of you are doing just fine — good, even.
+
+✦
+
+We've simply been at this for a minute, and we made RE4 so it could support you wherever you are. It can flex for a seasoned developer or carry a non-coder through a full build. It's meant to help. However you'd like.
+
+✦
+
 **If you are the type of person who wants to just begin: skip to Chapter 7, follow the instructions in the TOUCHSTONE section, download Appendix B: RE4.md file, paste it into Claude Code, then ask to begin using The Re-portable 4.**
 
 ✦
@@ -275,25 +208,33 @@ This is a renaissance, and in this one, the inventors are all of us.
 
 ---
 
-# Chapter 1: By An Order of Magnitude, RE4
+# Chapter 1 - By An Order of Magnitude, RE4
 
 By an order of magnitude better than before, we are Double Star Games. We make games, tiny tech, and edge AI where we sit one good long walk away from a view of Puget Sound. My partner in games, Patrick, dubbed me, Dana, an NCSD: a Non Coding Software Developer. Since my introduction to Claude Code I've been an NCSD, but I also write, forage, cook, garden, and many other pursuits that are all slowly giving way to Claude Code.
 
 We first created the Re-portable 4 for ourselves because after six months of working with the incredible Claude Code we realized we'd also need incredible Claude level support to make our builds truly solid. We were bridging our ability to turn all of our projects, all of our designs and work, and all of our specs from decades of research and development into a successful model that could bring our builds to you, to market, and to the world.
 
-Like many of you we experienced the very full breadth of all that Claude Code could offer. Initially the prolific power of AI meant our repositories quickly bloomed and flourished. But very soon that evergrowing bloom started looming as a constant overwhelming presence.
+Through this book we're offering a method, a lineage, and a system. It not only describes a way of working, the RE4.md download puts it in your system, ready to run with Claude Code.
+
+Like many of you we've experienced the very full breadth of all that Claude Code could offer. Initially the prolific power of AI meant our repositories quickly bloomed and flourished. But very soon that evergrowing bloom started looming as a constant overwhelming presence.
 
 Our repo was becoming more of a heap. We iterated until we found the most efficient and highly organized ways we could support ourselves while working with Claude to keep our work product as efficient and organized in our Repositories.
 
 Once we achieved a massive shift in how we were working, saving time, and creating the most efficient and astounding work we'd ever done including solving for recovery; we knew we'd created our answer.
 
-> The improvement was by orders of magnitude better than we thought to hope for, and made us that much better in our work. We then set ourselves to build the RE4 in earnest, this time for you.
+The improvement was by orders of magnitude better than we thought to hope for, and made us that much better in our work. We then set ourselves to build the RE4 in earnest, this time for you.
+
+---
+
+## A Coordination Grammar
 
 Our Re-portable 4 is a coordination grammar and a recovery tool to be invoked by you, the person who can now work with your RE4 team all throughout your work with Claude Code. Invoke the Re-portable 4 during your process while building however you do your best work. It was distilled to a set of four _archetypes_---each with a distinct domain---and together they cover all the terrain of building things with Claude Code assistance.
 
-Each archetype has a folder in your project that contains all the simple instructions they need to play their role as well as all the artifacts they maintain for you. The RE4 instructions sit at the root of your project and directs AI to the appropriate instructions based on their roles.
+Each archetype has a folder in your project that contains all the simple instructions they need to play their role as well as all the artifacts they maintain for you. The RE4 instructions sit at the root of your project and direct AI to the appropriate instructions based on their roles.
 
 ---
+
+## Three Principles
 
 **Three principles guide this system:**
 
@@ -311,17 +252,21 @@ Each archetype has a folder in your project that contains all the simple instruc
 | **Persona**    | **Domain**                      | **Question**                                                | **Affordances**                                         |
 | -------------- | ------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
 | **Alexandria** | Knowledge (Dragons and Stars)   | What are the unknowns? What do we know?                     | To name the challenge until we can more fully define it |
-| Q              | Operations  <br>(RUNBOOK)       | What are we building? How do we build? How is it delivered? | To trust the order and process                          |
+| **Q**          | Operations  <br>(RUNBOOK)       | What are we building? How do we build? How is it delivered? | To trust the order and process                          |
 | **Kepler**     | History (Epochs)                | How did we get here? What's the context of each choice?     | To rely on what has been recorded                       |
-| Gomer          | Validation (Definition of Done) | Does it work right? Did we do what we said we would do?     | To protect your final product                           |
+| **Gomer**      | Validation (Definition of Done) | Does it work right? Did we do what we said we would do?     | To protect your final product                           |
 
 ---
+
+## The File That Starts It
 
 RE4.md is the file that allows Claude Code to use the system. It's an instruction manual you leave in the repository. You download it. RE4.md explains the process to AI, and defines enough of their role in this, to be able to leave room for collaboration while pointing them constantly towards instructions for each of the four archetypes.
 
 Without RE4.md, AI would try to help using its own intuitions based on the slice of your project it reads through. With RE4.md, every AI knows _your_ invariant rules. They learn the RE4 system, by reading the purposefully crafted file. Upon download, the RE4 are ready to work with you.
 
 ---
+
+## Meet the Four
 
 **Alexandria (A) is a cartographer of knowledge.**
 
@@ -331,25 +276,19 @@ As they're defined better and discovered Alexandria will transform _Dragons_ int
 
 As your _Stars_ become mapped, you learn much more as you create your build, you find artifacts in your projects that will jump-start ideation for the next.
 
----
-
 **Q does not improvise**.
 
 Q owns the RUNBOOK and Q owns the build. Q owns what you are building and exactly how to build and deliver it.
 
 The RUNBOOK is operational truth without ambiguity because we've given Q a confidence metric. This confidence metric allows Q to be an executable source of truth for building and deploying any project.
 
----
-
 **Kepler is the time travelling navigator.**
 
 Kepler owns enough recording to answer: How did we get here? Kepler watches the project folder and git history to record the _Epochs_ of your work.
 
-_Epochs_ are marked by decision points that create a delineation, like an era in your build. The marked _Epochs_ turn your well recorded history into easily navigable context as well as content and allows for a deeper understanding of your work over time.
+_Epochs_ are marked by decision points that create a delineation, like an era in your build. The marked _Epochs_ turn your well recorded history into easily navigable context as well as content and allow for a deeper understanding of your work over time.
 
 Using Kepler well, and using Kepler consistently, you can travel to a past point in any project and consider the full picture at any time a decision was made.
-
----
 
 **Gomer is validation through the whole product cycle.**
 
@@ -359,6 +298,8 @@ Gomer can get you from the _design rubric_ all the way through the levels of the
 
 ---
 
+## Whether Sheet Music or Jazz
+
 The RE4 isn't just a coordination grammar, it's also a workflow, a recovery system, a work ethos, and an emergent narrative of your project with a full support team of 4 dedicated assists.
 
 We distilled the roles down to 4 using Mutually Exclusive, Collectively Exhaustive (MECE) as our filter to help us understand how we could best organize our work flow product as it began reaching across domains, systems, and platforms. Whether working solo in our own unique ways or working seamlessly together using RE4's common coordination grammar. RE4 affords us a better understanding of where all of our work lives, a better workflow, a recovery system, and an underlying ethos of support.
@@ -367,7 +308,7 @@ We've also had to solve for Claude Code's full span of behaviors and tendencies 
 
 My partner uses RE4 like sheet music. I may use it more like jazz. The _archetypes_ as we refer to them, are always the same: Alexandria, Q, Kepler, Gomer —but we observed the way we each invoke and utilize them is vastly different. That difference is how we came to understand: if the same structure can support all types of approaches, then the structure is pretty strong.
 
-> Patterns aren't invented. They're discovered. We noticed what already worked in our own processes and named the structure underneath to identify what's needed.
+Patterns aren't invented. They're discovered. We noticed what already worked in our own processes and named the structure underneath to identify what's needed.
 
 Another positive pattern we noticed early on was how we both jumped into the work in a similar way. We're both iterative. Patrick iterates first with tests. I iterate first with ideas. But we both begin the same way—we just start. We then work our way in. The challenge with working this way is, over time, if you don't understand the shape of the path that led you to your decisions, you risk changing something without remembering why.
 
@@ -387,7 +328,7 @@ The gifted generalist engineer with 40 years experience, the one who dubbed me a
 
 That's what we want this working space to be. With Claude Code, with anyone else: collaboration. Once called on or invoked, the re4 will work better as you interact more and eventually learn to drive the work. Because the Re-portable 4 is not an automated system, it is inert without you.
 
-> You decide to what extent you'd like to drive every build, but driving can be full attention inclement weather style driving with both hands on the wheel or relaxed summer driving on your ideal day on your ideal road. The framework supports all styles.
+You decide to what extent you'd like to drive every build, but driving can be full attention inclement weather style driving with both hands on the wheel or relaxed summer driving on your ideal day on your ideal road. The framework supports all styles.
 
 I'm learning a lot from that gifted generalist. Over the years he has taught me: Neural networks and early LLM ideas back in 2012. Cryptography in 2013. Merkle trees around 2017. I learned the language and the concepts. But my way in was never orthodox.
 
@@ -408,7 +349,7 @@ Code is just what gets poured into the mold.
 
 It's not the mold.
 
-> The _done-ness_ of the thing — the integrity of it, the way it holds — that's the mold. The code is one expression that happened to fill it this time.
+The _done-ness_ of the thing — the integrity of it, the way it holds — that's the mold. The code is one expression that happened to fill it this time.
 
 Mistaking code for the mold is like over-tuning the radio you're listening on and thinking that's what's coming from the station. You start protecting the static, the noise. You start defending the receiver instead of listening to the signal.
 
@@ -424,9 +365,7 @@ May our order of magnitude be yours.
 
 ---
 
-# Chapter 2: A Walk Through A Build
-
----
+# Chapter 2 - A Walk Through A Build
 
 Every project begins somewhere. Not with code — not yet. 
 This is for those who might learn from one narrated path through a build. Your path will look different.
@@ -468,11 +407,9 @@ Say Patrick is building a login page for a website. His rubric might look like t
 - The page handles sessions so users don't have to keep logging in
 - Users can log out
 
- That's just what _must be true_ for this thing to be the thing he's trying to make.
+That's just what _must be true_ for this thing to be the thing he's trying to make.
 
 ---
-
-
 
 ## Alexandria Finds the Dragons
 
@@ -480,7 +417,7 @@ This is where Alexandria might enter. Given that basic rubric—Alexandria can l
 
 What happens at the boundary between these two features? What did we assume without realizing we assumed it?
 
-
+---
 
 ## Gomer and the Definition of Done
 
@@ -588,8 +525,7 @@ Refining the thing affords it to become more itself.
 
 ---
 
-# Chapter 3: The Four
-
+# Chapter 3 - The Four
 
 ---
 
@@ -603,35 +539,23 @@ The concept of affordances come from Gibson, a perceptual psychologist, who noti
 
 In game design a character may double-jump if their kit affords it — the player discovers this by playing, not by being told how to play.
 
----
-
 *Please meet the Re-portable 4:*
-
----
 
 **Alexandria** (Knowledge) asks: _What do we need to figure out?_
 
 Alexandria affords working with unknowns — challenges, gaps, things that looked like mistakes but reveal something worth learning more about. You name it, file it, and keep moving until you get to the right moment when you have the time and mental focus to tend to it.
 
----
-
 **Q** (Operations) asks: _How do we build?_
 
 Q maintains a MECE hierarchy of how to build and deliver your code. This is called RUNBOOK. Q is sure about the build because we gave Q confidence metrics. Q affords you to make a solid build because Q holds the whole map. Once the full map and plan is made Q carries you through with confidence.
-
----
 
 **Kepler** (History) asks: _How, exactly, did we get here?_
 
 Kepler affords returning to your own thinking — not just your timeline of events, but the context around each choice. Whether you've been away for an afternoon or a month, you can see your own reasoning again. Kepler affords an easy way to reorient with any project with surprising speed, ease, and clarity.
 
----
-
 **Gomer** (Validation) asks: _Do what's been tested, defined as done, and the design rubric all define your product?_
 
 Gomer affords understanding your product well enough to create a design rubric and test it against a definition of done through the testing pyramid until we know the moment it is truly done and it meets the aim you established from the start.
-
----
 
 Alexandria - Knowledge, Q - Operations, Kepler - History, and Gomer - Validation. The domains stayed distinct enough we gave each sphere an archetype. We called these four archetypes: The Re-portable 4.
 
@@ -641,11 +565,7 @@ Alexandria - Knowledge, Q - Operations, Kepler - History, and Gomer - Validation
 
 Alexandria is our cartographer who libraries as a verb. Alexandria handles the creative stage of any project because it is the part where the terrain is not yet mapped. Alexandria collaborates with you to figure out what is unknown — what you cannot yet see but can imagine. Once you have found your way into the creative work, Alexandria handles the unknowns that arise during this phase as a collaborator.
 
----
-
 Alexandria importantly supports you in tracking and mapping the _Dragons_ you find as you go into any project.  You can have a name for the _Dragon_, or you can describe it in any way, knowing you can name it as you learn more.  This turns what is undefined into what is merely unmapped.
-
----
 
 Once we know what they are, once we understand them enough to define them somehow, they become a _Star_ and this is well documented as the project progresses.
 
@@ -653,15 +573,9 @@ Once we know what they are, once we understand them enough to define them someho
 
 We mark unknowns as old mapmakers once marked theirs. The names come from ancient cartographers who named any unknown territory on a map: Terra incognita, and marked it with dragons. "Here be dragons," because the mapmaker hadn't explored there yet. The place clearly existed but until further investigation, nothing could be mapped.
 
----
-
 A _Dragon_ is a not-fully-defined node on your knowledge map. It's named as you come to know something about it. It's not always a challenge or a question. It may have been introduced as a mistake or bug. But one day it can become a set of truths you can use to improve your build. Once you know more about it, the Re-portable 4 will then map it as a _Star_. Alexandria will do all this for you once the important thing you wanted to uncover becomes known.
 
----
-
 To us, a _Dragon_ is something powerful that exists way out there — you know it's there, you've named it, but you haven't yet brought it into full clarity. _Dragons_ aren't failures or debt. They are often challenges. They are always promises to yourself that a new or unknown territory matters and will get its day.
-
----
 
 A _Dragon_ is essentially a named placeholder for future understanding — the act of acknowledging territory exists, giving it a name so you can find it again, without needing to map it all right now. The naming itself is a minimal commitment that preserves your current mental focus.
 
@@ -670,8 +584,6 @@ A _Dragon_ is essentially a named placeholder for future understanding — the a
 ## Q (Operations)
 
 A RUNBOOK is a MECE hierarchical breakdown of what we are building, how we build it, and how we deliver it when we're done. Q makes our RUNBOOK on every build. Q is my lead engineer. He codes the build once the RUNBOOK is completed. For Patrick, Q is his confidence that he's building the right thing.
-
----
 
 We've even made confidence metrics to keep Q from guessing or drift. Q is how we build things rigorously. Without RUNBOOK Claude's confusion can build the wrong thing. Sometimes this confusion can even invent new programs that live alongside the build you're currently working in. Working with a confident Q, the RUNBOOK always knows what you are making and how to make it.
 
@@ -730,13 +642,13 @@ We'll walk through the full pyramid in Chapter 8. For now, know this: the shape 
 
 Kepler is our keeper of record. The one who takes notes. The one who marks enough arcs that _Epochs_ can be named.
 
-### What Kepler handles
+**What Kepler handles**
 
 - Context — why decisions were made
 - Journal — the record of what happened and why
 - Epochs — major turning points: the moments when the build changed
 
-### The strange gift of Kepler
+**The strange gift of Kepler**
 
 We are iterative in everything. We like to just begin. Sometimes I can better see something taking shape once I've already begun.
 
@@ -746,7 +658,7 @@ This means you can make architectural decisions in context and record them in a 
 
 For us, this feels akin to not losing sight of land while at sea.
 
-### A different sort of eidetic memory
+**A different sort of eidetic memory**
 
 Kepler doesn't need linear data. Kepler marks arcs, names _Epochs_, and can wend its way back through time — bringing you along.
 
@@ -770,7 +682,7 @@ Alexandria (know) → Q (build) → Gomer (validate) → Kepler (record)
      └──────────────────────────────────────────────────────┘
 ```
 
- Start anywhere. Find your way in from anywhere. Each hands off to another. There is no canonical order.
+Start anywhere. Find your way in from anywhere. Each hands off to another. There is no canonical order.
 
 - Alexandria maps what needs building → Q builds it
 - Q completes a step → Gomer validates it
@@ -795,15 +707,9 @@ All our work reduced into four general areas:
 
 Robert Martin put it simply: "You should be able to change the environment surrounding a module without changing the module itself." That's the RE4. Change the names, add your own rules around it, it will shape to your style as you go — keep what is MECE: the RE4.md.  We have made what must remain in stone on the downloadable RE4 file. For the Devs who understand RE4's invariant structure and base functionality: mod away.
 
----
-
 The constraints are how the RE4 stays strong.
 
----
-
----
-
-# Chapter 4: The Blank Page
+# Chapter 4 - The Blank Page
 
 Starting in the mid-2010s, IBM made a real quantum computer accessible on the cloud to the public. Anyone could create an account, define a circuit, submit it, and see what the machine did. Before that, quantum computers lived behind glass.
 
@@ -850,8 +756,6 @@ The question isn't what should I build?
 The question is: what won't leave you alone?
 
 Start there.
-
----
 
 ✦
 
@@ -973,8 +877,6 @@ What would let you feel like people are listening?
 **Laughter.**
 What could make you laugh right now?
 
-
-
 ---
 
 If you don't know yet, that's fine.
@@ -989,14 +891,11 @@ Terra incognita.
 
 Any one of these could become a _Dragon_.
 
----
-
-# Chapter 5: Re-framing: A Grammar for Teams
-
----
+# Chapter 5 - Re-framing —<br>A Grammar for Teams
 
 _Re-framing is re-forming._
 
+---
 
 ## Even Solo, You Now Have a Team
 
@@ -1017,21 +916,15 @@ RE4 uses the language of _Dragons_ very intentionally as a way to collaborate be
 
 When you work with a system that regularly looks for _Dragons_, the Re-portable 4 ends up showing you the parts of your work you simply didn’t have time to comb through before.
 
-
 **An RE4 Dragons Report doesn’t judge your system. It reveals it. It shows you where the map ends, where the terrain shifts, and where your next discoveries are likely to be waiting.**
 
-
-This can help you reveal the places you don’t understand yet — your terra incognita. Requesting a _Dragons_ report can reveal hidden opportunities where effort, energy, and cost aren't ideal. 
+This can help you reveal the places you don’t understand yet — your terra incognita. Requesting a _Dragons_ report can reveal hidden opportunities where effort, energy, and cost aren’t ideal.
 
 RE4 helps you discover the _Dragons_, name the unknown, and learn the unknown until it becomes mappable. That’s how _Dragons_ turn into _Stars_. And _Stars_ light the way—solutions, clarity, and often a little more map than you could see before.
 
 The path is simple.
 
----
-
-
-
-**Step-by-step** 
+**Step-by-step**
 
 Discover the _Dragons_ — notice what’s unclear, risky, assumed, or untested.
 
@@ -1043,14 +936,9 @@ Promote _Dragons_ to _Stars_ — when it’s verified, it becomes a _Star_ a kno
 
 Follow what is observed in your maps over time — _Stars_ guide decisions, unlock solutions, and reveal more terrain.
 
-
----
-
 **Watch what happens when someone hits an edge and the system says: error.**
 
 It's a small constriction whether the reflex is retreat—or push through with force. Either way, everyone's curiosity lessens and maybe stagnates. Creativity comes differently for each of us but it is often shut down the same for everyone.
-
----
 
 **Now watch what happens when the system says: here be dragons.** There is a pause. Attention shifts. A question forms: **What could this be?**
 
@@ -1070,8 +958,6 @@ Calling unknowns dragons instead of failures function stacks at least four thing
 
 **It preserves signal.**  A failure gets hidden or fixed. A dragon gets fully documented. Now the edges make the shape of your system more visible.
 
----
-
 **We’ve learned that the way we frame things for Claude Code matters more than we expected.**
 
 Naming unknowns as _Dragons_ encourages finding real solutions, not just forward motion.
@@ -1080,14 +966,11 @@ When something is named as a Dragon, Claude treats it as a real, worthy unknown 
 
 We’ve noticed that this shift in language gently curbs some of Claude’s less helpful tendencies. When the same thing is framed as a blocker or an error, something different happens and Claude tends to look for workarounds and ways around the problem rather than through it. Those moves can patch or sidestep an issue, but they rarely resolve it at the root. 
 
-Reading error reports rarely put a smile on my face, but dragons? _Dragons_ I can work with. 
-
+Reading error reports rarely put a smile on my face, but dragons? _Dragons_ I can work with.
 
 ---
 
 ## Re-framing as a Grammar for teams
-
----
 
 The problem RE4 solves for teams:
 
@@ -1153,7 +1036,6 @@ No one requires a translation layer. The C-suite can ask the same questions the 
 
 ---
 
-
 _Meetings become file reviews._
 
 Instead of "let's sync on what's happening" — read the files. The information is already there. Meetings shift from information transfer to decision-making. That's a different kind of meeting. A better one.
@@ -1166,23 +1048,19 @@ Every team member, every Claude Code instance, reads the same RE4.md. The struct
 
 ---
 
-
 _That's what RE4 produces._
 
 _Not just better builds._
 
 _A team._
 
----
-
-# Chapter 6: Naming & Where Work Lives
+# Chapter 6 - Naming and Where Work Lives
 
 Uncle Bob — Robert Martin, the man who wrote the book on clean code — built his ideas from **doing, noticing, correcting, and caring**. From decades of making messes and then learning to clean them up. From naming things badly, and then renaming them until they made sense.
 
 Iteration isn't a workaround for not knowing. It's the method.
 
 And once you've begun down the road to making something — you have an artifact. A file. A document. A piece of text with information in it. Something you can point to, return to, build on.
-
 
 The art of making artifacts has taught me how I think, how I design, and how I find my own domain.
 
@@ -1217,10 +1095,10 @@ If you're collaborating with engineers — or with Claude — these are the thin
 - **Decisions recorded close to where they're made:** so context isn't lost
 - **No magic folders:** no place where "stuff just goes"
 
-
 ---
 
 ## Your Computer Is Not Abstract — It's Spatial
+
 This is not a technical point. It's a human one.
 
 Computers work by **place**.
@@ -1237,9 +1115,10 @@ Designers do this with boards.
 Non-coders do this with folders and documents.
 
 ---
+
 ## A Simple Shared Vocabulary
 
-Working with the Re-portable 4 means an engineer can pick up your project and have these basics already answered.  
+Working with the Re-portable 4 means an engineer can pick up your project and have these basics already answered.
 
 ---
 
@@ -1253,7 +1132,6 @@ All your work lives in one of four places:
 | **Local Files** | Your computer | Ideas land. They have names now. They live in folders. |
 | **The Repo** | Git/GitHub | Work commits to existing. History. Survival. Shared truth. |
 | **Notes** | Your private notebook | Yours alone. Drafts. Thinking. Safe to lose. |
-
 
 Each space has its own purpose.  But it's really just: a place for everything, and everything in its place.
 
@@ -1283,7 +1161,7 @@ When files are organized by domain, they stay together because they belong toget
   dragons/
   research/
 
-/home-network/
+/network/
   fafnir/
   logs/
   notes/
@@ -1324,13 +1202,11 @@ bravery.md
 
 ---
 
-# Chapter 7: Recovery and Resilience
-
----
+# Chapter 7 - Recovery and Resilience
 
 I imagine resilience as learning to recover better and better as we go. More resilience means easier recovery.  Every person who builds and creates things for a living—engineers, writers, makers, designers, artists, architects—each carries a rich mental model of their unique work. They're always holding connections between all the components, the decisions already made, all the challenges still unsolved, and the shape of what's emerging.
 
- Whatever form a session collapse takes—whether from a crash, an interruption, a vacation, or a Monday morning—getting it back can finally be as easy as a few minutes of reorientation with the RE4.
+Whatever form a session collapse takes—whether from a crash, an interruption, a vacation, or a Monday morning—getting it back can finally be as easy as a few minutes of reorientation with the RE4.
 
 ---
 
@@ -1340,14 +1216,11 @@ Patrick was working with our online creature's new behavior, and Claude crashed 
 
 I looked over about five minutes later and was completely surprised to see him fully back in his build, headphones on, testing his desktop creature's vocalizations again.  He was able to get back into his project almost immediately—to the point of being almost ruffled when I pulled focus for a quick interview/interruption. The run-through was quick. His recovery was easy.
 
----
-
 He went back into his build with confidence. He flagged the RE4 by typing RE4 in a clean Claude Code session. He essentially wrote: "My last session crashed, appears irrecoverable, couldn't resume the session. I'd been about to test changes and would like to go back to exactly where we left off."
 
 The RE4 studied all of the Kepler recorded document history and GitHub history and found the uncommitted changes. Patrick was presented with a full RE4 project summary. It matched his last moments of collaboration. Nothing had been lost.
 
 And thus they all un-wobbled.
-
 
 ---
 
@@ -1355,18 +1228,11 @@ And thus they all un-wobbled.
 
 Task resumption post interruption is one of the most well-studied phenomena in software engineering and cognitive science. The numbers are consistent across decades of research.
 
----
-
 Gloria Mark at UC Irvine tracked knowledge workers and found it takes on average over twenty minutes to return to a task after a single interruption.  This is not to finish the task but to simply get back to where you were. This applies every single time.
-
----
 
 Sophie Leroy at the University of Washington named the mechanism: attention residue. When you switch away from a task, part of your mind stays stuck on the previous one. The more engaged you were—the better the session was going—the more residue you may carry. This might be why you feel it the most when a crash happens during your best work.
 
----
-
 Now imagine that after any wobble, Re-portable 4 gathers a full report, bringing you right back into your work.  Shortening the time to return to a task was our goal. It's been a quiet triumph using the RE4 to hold our place no matter what pulls us from the work.
-
 
 ---
 
@@ -1378,11 +1244,7 @@ Now imagine that after any wobble, Re-portable 4 gathers a full report, bringing
 
 In Clean Code, Martin observed that the ratio of time developers spend reading code versus writing it is well over ten to one. Every time you sit down to write new code, you're first re-reading and re-understanding what's already there. Recovery is not a special event. It is often the default mode of a more classic style of working.
 
----
-
 In The Clean Coder, he addresses recovery directly from all interruptions. He prescriptively offers: pair programming with well working test-driven development. A pair partner can hold the context of a shared challenge while you handle the interruption. When you come back, they help you reconstruct the shared mental state. The Re-portable 4 holds context for you. It breadcrumbs back to where you were.
-
----
 
 Martin's famous productivity curve shows how messy code can cause team velocity to plummet over time until the only option is a complete rewrite.  Now imagine the other side of this curve: what would cleaner and more elegant code do to affect team velocity over time?  Where could that trajectory lead you?
 
@@ -1394,11 +1256,7 @@ Martin also has a Boy Scout Rule: leave the code cleaner than you found it. It's
 
 Alexander's entire body of work is about recovery and repair as the natural state of building. In The Timeless Way of Building, he wrote that we create wholeness by paying attention to the defects in existing wholes and trying to repair them. He saw repair not as fixing something broken, but as the primary creative act.
 
----
-
 The most famous line from A Pattern Language also captures it: "When you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole."
-
----
 
 The pattern language itself is a recovery tool. Alexander designed it so that a person who doesn't fully understand the design problem can start from any part they do understand and work toward the unknown parts. That's exactly what session recovery looks like—you find the piece you recognize and follow the threads outward.
 
@@ -1408,19 +1266,13 @@ The pattern language itself is a recovery tool. Alexander designed it so that a 
 
 ## Recovery After Time-Away
 
----
-
 **The Monday Morning Problem**
 
 Every Monday, every developer in the world does a mini-recovery. They sit down, open their IDE, stare at their code, and try to remember where they were in their build Friday afternoon. RE4 takes only a few minutes of your time, once you're oriented with it.
 
----
-
 **The Vacation Return**
 
 You take two weeks off. You come back. Where were you? Most developers spend their first day or two back just reading through commit logs, chat history, and ticket systems trying to reconstruct what happened while they were away.
-
----
 
 **The Old Project You Never Go Back To**
 
@@ -1432,30 +1284,21 @@ Now you could finish it, extend it, and use it as the foundation for something n
 
 ## The Touchstone
 
----
-
 ```
 > RE4
 ```
 
 Consider Christopher Alexander's insight about the University of Cambridge: no one designed it, and that's the point. He said the campus works because it grew through thousands of small acts of repair and addition over centuries, not because someone drew up a master plan. Good systems are the same. They don't prevent collapse. They make recovery and continuation natural.
 
----
-
 Recovery is as good as your ability to drive the Re-portable 4 through your project, so that when recovery is needed, invoking the archetypes brings you right back into your build.  The Re-portable 4 doesn't prevent collapse, it makes recovery easier.
-
----
 
 The fastest way to start: give Claude Code the link to RE4.md in the Re_Portable_4 repo (https://github.com/double-star-games/re4-book). Or just copy paste the file from your browser right into Claude Code.
 
 RE4.md contains all the instructions Claude Code needs to start using RE4, including setting up the folders for each archetype.
 
----
-
 Type "re4" any time you want to check in and reorient. Claude Code will search for the term, find your RE4.md file and orient, update dragons, stars and epochs. Do this before compaction to save the critical reasoning that the session is about to lose. When you sense context is about to collapse, invoke RE4 early. Recovery is easier if there's already some mention of the Re-portable 4 in the project. The more you've actively invoked RE4 in collaboration, the more resilient you and your builds become.
 
 There's a seed file that lives at ~/.claude/CLAUDE.md—a hidden file Claude reads at the start of every session. We've copied our RE4 file directly into there. It means Claude is prepared after beginning a new session.
-
 
 ---
 
@@ -1473,19 +1316,13 @@ Recovery isn't just a technical problem.
 
 There's a real difference between looking at an old build and feeling the weight of un-spaghetti-ing a heap, versus the feeling of discovery like my romantic notion of archaeology—knowing you'll always discover something of note.
 
----
-
 This is how Patrick went back into an old build from 2000 with confidence. He was inspired by this section and used RE4 to go way back. RE4 found two epochs: he built a game in 2000, and began refactoring it in 2015 but never completed it. Using RE4 in Claude Code, he was able to reconstruct the world, re-enter the refactor, and evolve it into a modern simulation.
 
 He loved the whole process. It made him proud of the work he did twenty-five years ago. He was able to dive back into the same questions: species, herd behavior, rebuilding, renewal. Using RE4 in Claude Code, he returned to the exact edge of curiosity he'd once stood on with his unique worldbuilder.
 
----
-
 A good recovery system changes the emotional valence of returning to any work. You can put something on in the background, pull up a report on an old build, and let it orient you while you're living your life.
 
 Our answer is to make recovery cost little to nothing. Good recovery systems respect the builder's time, energy, and state. They turn dreaded re-entry into a mere check in.  The first 20 times we experienced this it just kept being amazing. For me it was more than just stress avoided, it felt like momentum respooled.
-
----
 
 When every stage of a build is actively supported, well-marked, and recorded, recovery becomes easier.
 
@@ -1493,29 +1330,25 @@ You leave it better than you found it.
 
 And the next person picking it up is almost certainly you.
 
----
+# Chapter 8 - Definition of Done
 
-# Chapter 8: Definition of Done
-
-
-**Learning to Write a Definition of Done**
+## Learning to Write a Definition of Done
 
 Before you start the work of the build, fully map what done looks like for you, for the build, and for Gomer so we can guard that definition until it becomes true. Something Gomer declares done is something you can take to market.
 
-Start by making a Rubric with Gomer. The key here is to recognize the ideation comes before design in this sense. At ideation you could make a simple Rubric. 
+Start by making a Rubric with Gomer. The key here is to recognize the ideation comes before design in this sense. At ideation you could make a simple Rubric.
 
----
- The Rubric is for the Idea. Once you have the Idea and the Rubric: you can then be the tech team that designs the product with those in mind. Or the RE4 can hold them for you.
+The Rubric is for the Idea. Once you have the Idea and the Rubric: you can then be the tech team that designs the product with those in mind. Or the RE4 can hold them for you.
 
 ---
 
 ## How Gomer Understands the Definition of Done
 
 Each criterion must be checked and verified. Protecting your definition of your product is why Gomer's job is to hold the line. Done means the criteria are met. All of them.
-**This is rigid on purpose.** 
+**This is rigid on purpose.**
 **That rigidity prevents drift.**
 
-
+---
 
 ## Gomer's Test Pyramid
 
@@ -1541,6 +1374,7 @@ Each criterion must be checked and verified. Protecting your definition of your 
 
 The shape tells you something: most of your testing lives at the bottom. The tests within the wide base are all the small, fast, constant checks. As you move up, there's less — but each layer builds on what's below.
 
+---
 
 ## Unit Tests — The Base
 
@@ -1552,6 +1386,7 @@ This is the safest way to move. You're never guessing. You're never building som
 
 The tests drive the code. That's why it's called test-driven. You don't write the thing and then check if it works. You write the check first, then make the thing that passes it.
 
+---
 
 ## Performance Tests — How Does It Run?
 
@@ -1561,6 +1396,7 @@ These are characterization tests. You're not asking "does it work?" — you're a
 
 Little stress tests for each part of the shoe, before you ask anyone to walk in it.
 
+---
 
 ## Integration Tests — Do the Pieces Fit?
 
@@ -1570,6 +1406,7 @@ This is where you connect things. Module A talks to Module B. Does the conversat
 
 If you did the layers below well, this part is surprisingly straightforward. The pieces were built to fit. Now you're just confirming they do.
 
+---
 
 ## Validation Tests — The Top
 
@@ -1583,8 +1420,7 @@ Not "does it run?" Not "do the parts connect?" But: did we build the right thing
 
 This is Gomer's moment. The honest answer. Gomer affords the honest "not done yet" — or, finally, "yes. The build is done."
 
-
-
+---
 
 ## The Rules
 
@@ -1596,9 +1432,6 @@ Be complete — List everything that matters. If it's not on the list, it won't 
 
 Be honest — Don't write criteria you know you'll skip. Write what actually matters.
 
-
----
-
 Done isn't always the end. Once something is public — shipped, published and handed to someone — it has a life beyond you. The changelog is how you tend to that life honestly.
 
 ---
@@ -1607,13 +1440,11 @@ Done isn't always the end. Once something is public — shipped, published and h
 
 Once something can be put to market or published publicly however one might: We have the changelog for everything that becomes public facing. Now other devs can see what updates have been done and when and why. It's honest upkeep that signals respect to them. They can see what your library might do and be.  Also if it's something that needs tending, they can see how you're keeping it up.  If a new definition of done ever arises and we update the thing that is now public facing?  Gomer can update the changelog.
 
-
----
-
 Sometimes, when done is declared, you may feel there is more.  When this happens it means there is usually a lens I haven't considered. If there's something not yet considered, you update the Rubric — unless you just found version 2.
 
 
 ---
+
 ## Example of Done for this Book
 
 Gomer can help you make a good test matrix. My best current example is: What do you think my definition of done is with this book? Think of all the different environments and contexts you could test. What are all the ways this book could or should be published? Or should I do the definitions of done as a timeline: First publish on GitHub, then on our website, then online stores?
@@ -1645,16 +1476,10 @@ Every chapter in this book has a definition of done:
 -  Tested and verified
 
 ---
----
 
 **"Honesty in small things is not a small thing." — Robert Martin, Clean Code**
 
----
----
-
----
-
-# Epilogue: The Slowest Operation
+# Epilogue - The Slowest Operation by Patrick Meade
 
 **On the Re-portable 4, and Why This Matters**
 
@@ -1671,14 +1496,12 @@ That's why we name things well. That's why we write interfaces and fluent unit t
 
 ***But there's a limit.***
 
-
 When your codebase spans thousands of files across dozens of repos you cannot expect yourself to switch projects without significant reading time spent during each switch.  And reading time isn't even the real cost.
 
 **The real cost is _not switching_.**
 
 Every time a team member switches projects, or someone returns from leave, there's a cost.
 But here's what doesn't show up on any balance sheet: the projects that _don't get switched to_. The technical debt that accumulates because nobody can afford to load the old system into their head. The knowledge that walks out the door when someone leaves.
-
 
 ---
 
@@ -1689,7 +1512,6 @@ Organization helps. I tried writing things down; lists, notes, systems. I never 
 Having to remember the lists in practice doesn't help with the true issue.  The only value I ever found from writing things down was that the act of writing helped me remember a little better but not enough that any system or tool ever helped. 
 
 The notes themselves? Mostly orphaned and mostly forgotten. Occasionally rediscovered with the strange sadness of meeting a past self who was trying to help a future self who never found the note.
-
 
 ---
 
@@ -1702,7 +1524,6 @@ Before, I would have tried to hold it. Or let it go. Or jotted a note I'd never 
 Now I hit escape. I tell Claude: _"Record a potential dragon. Capture this."_ He writes it down with enough context to reconstitute the thought — not just _what_ I noticed, but _why_ it mattered and _what we were thinking_ when we noticed it.
 
 That takes maybe ten seconds.  Capture those basics, then back to work.
-
 
 ---
 
@@ -1725,7 +1546,6 @@ The focus has been on the Re-portable 4 as a system that allows for recovery and
 This is about getting _me_ to context-switch without drift.
 
 The Re-portable 4 acts like saved pages of memory in a computer. When Claude and I read through the mapped dragons together, we arrive straight at the mental posture that brought us to how we _thought_ about the problem. The angle of approach. The things we'd already ruled out and the things we were still circling.
-
 
 ---
 
@@ -1750,8 +1570,6 @@ Now let me be direct about what this means economically. Don't mistake our talk 
 
 **Institutional memory:**  With the current wave of lay-offs, companies must be hemorrhaging knowledge. People leave. Projects end. Priorities shift. The RE4 captures not just _what_ was decided but _how the thinking worked_. That's recoverable and auditable. That's worth something when you're trying to figure out why a decision was made three years ago.
 
----
-
 ## What This Means Right Now
 
 We're at an inflection point.
@@ -1760,18 +1578,11 @@ AI capabilities are advancing faster than our ability to organize work around th
 
 Our work is good and it is real. We made it because it was needed. It holds what it holds and when you come back it will still be there holding the true thing. We tested it.  It is true. The light comes in the morning and you sit down with your coffee and the work remembers you.  That is the whole thing.
 
----
-
-
----
-
-# Appendix A: Lineages
+# Appendix A · Lineages
 
 **LINEAGE**
 
 This book is woven with the warp and weft of others. What follows is our acknowledgment of the people, ideas, and work that shaped our thinking, with sources to explore.
-
----
 
 Christopher Alexander (1936–2022) gave us the ground we built on. His The Timeless Way of Building (Oxford University Press, 1979) is the inspiration for our epigraph and for our ethos. His A Pattern Language (Oxford University Press, 1977), written with Sara Ishikawa and Murray Silverstein, gave us the line we return to throughout: "When you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole." His insight about the University of Cambridge — that no one designed it, and that is precisely why it works — is the image we reach for when we talk about recovery as the natural state of building.
 
@@ -1797,16 +1608,11 @@ Leonardo da Vinci (1452–1519) kept notebooks. He drew to think. He connected t
 
 Every effort has been made to properly attribute the ideas and words that informed this work. Any errors in attribution are ours and will be corrected in future editions.
 
----
-
-
----
-
-# Appendix B: RE4.md
+# Appendix B · RE4.md
 
 PROJECT: [your-project-name]
 
-# RE4
+## RE4
 
 This project uses **The Re-Portable 4**.
 Four archetypes. Four folders.
@@ -1914,7 +1720,6 @@ Invoke Q when starting a build, updating what's being built, or when the build p
 | **3. DELIVER** | How do we ship it? | Steps from artifact to target |
 
 These three sections are the invariant. The format within them adapts to the project — a software build looks different from a book or a design. What doesn't change: CANONICAL describes what exists, PIPELINE describes how to make it, DELIVER describes how to ship it.
-
 
 #### CONFIDENCE METRIC
 
